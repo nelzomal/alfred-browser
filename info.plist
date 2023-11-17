@@ -333,7 +333,7 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>Emmanuel Pilande</string>
+	<string>Nelzomal</string>
 	<key>description</key>
 	<string>Search browser tabs from Chrome, Brave, &amp; Safari</string>
 	<key>disabled</key>
@@ -1280,6 +1280,6 @@ Commands:
 	<key>version</key>
 	<string>1.0.5</string>
 	<key>webaddress</key>
-	<string>https://github.com/epilande/alfred-browser-tabs</string>
+	<string>https://github.com/nelzomal/alfred-browser-tabs</string>
 </dict>
 </plist>
